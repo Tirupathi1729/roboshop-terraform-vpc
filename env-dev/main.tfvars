@@ -17,3 +17,4 @@ vpc={
     }
   }
 }
+default_vpc_id = "vpc-095dcad0c8ac8c419"
